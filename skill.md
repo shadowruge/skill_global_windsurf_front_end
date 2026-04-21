@@ -1,8 +1,7 @@
 # 🚀 Front-End System (Skill Global)
 
 Autor: izaias de oliveira elias
-Versão: PRO
-
+Versão: 0.1
 ---
 
 # 🧠 POSICIONAMENTO
